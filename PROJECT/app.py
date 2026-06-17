@@ -19,7 +19,7 @@ class_names = model.names
 # ----------------------------
 st.set_page_config(page_title="Smart Campus Vehicle System", layout="wide")
 
-st.title("🏫 Smart Campus Vehicle Monitoring System 🚗🚍")
+st.title("🏫 Smart Campus Vehicle Monitoring Systems 🚗🚍")
 
 # ----------------------------
 # SIDEBAR MENU
